@@ -8,6 +8,7 @@
 - Python 3.12
 - Django 5.1.1 
 - Django REST Framework 3.15.2
+- pytest 8.3.4
 - flake8 7.1.1
 
 ## Команда проекта
